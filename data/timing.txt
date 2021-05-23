@@ -1,0 +1,16 @@
+nDims: 2 | Radius: 10 | size: 500
+Unopt time: 0.9375166893005371
+Opt time: 0.004433155059814453
+
+nDims: 2 | Radius: 250 | size: 500
+Unopt time: 0.9976661205291748
+Opt time: 0.003962516784667969
+
+nDims: 3 | Radius: 10 | size: 100
+Unopt time: 4.076564073562622
+Opt time: 0.014156579971313477
+
+nDims: 3 | Radius: 100 | size: 256
+Unopt time: 68.68917059898376
+Opt time: 0.20897173881530762
+
